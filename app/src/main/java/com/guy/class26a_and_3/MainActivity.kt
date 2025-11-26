@@ -43,5 +43,6 @@ class MainActivity : AppCompatActivity() {
         )
 
         map[0][1].visibility = View.VISIBLE
+        map[0][1].visibility = View.VISIBLE
     }
 }
